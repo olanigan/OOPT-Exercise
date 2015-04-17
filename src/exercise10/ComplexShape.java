@@ -1,14 +1,11 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package exercise10;
 
 import java.util.ArrayList;
 
 /**
  *
- * @author Ibn Yahya
+ * @author Ibrahim Olanigan
  */
 public class ComplexShape implements Shape{
     ArrayList<Shape> shapes;
